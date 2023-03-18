@@ -1,4 +1,5 @@
 @WhiteSpaceCH
+Youtube : https://youtu.be/_cWKuMUgzs0
 มี 3 ตัวอย่างนะครับ
 1.Arduino-UNO_Blink
     Code Arduino ไฟติดดับเหมือนกับ Led บนบอร์ด ต่อกับ pin 13 นะครับ
